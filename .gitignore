@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.l6s
+*.l6m
+txt_export/
+*.metadata.txt
+*.log
+*.zip
